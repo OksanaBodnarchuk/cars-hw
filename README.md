@@ -1,1 +1,1 @@
-[Here can you see my work on GitHub Pages](https://oksanabodnarchuk.github.io/cars-hw/)
+[Here you can see my work on GitHub Pages](https://oksanabodnarchuk.github.io/cars-hw/)
